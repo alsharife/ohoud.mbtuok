@@ -1,52 +1,92 @@
-Hi there, I'm ohuod Mubarak ! 👋💻
+# Hi, I'm Ohoud Mubarak Al-Thaalabi 👋
 
-<p align="center">
-<samp>
-Customer Service Specialist | Aspiring Software Developer
-</samp>
-</p>
+### Customer Service Specialist | Programming Graduate | Future Software Developer
 
-<p align="center">
-Passionate about technology, programming, and continuous learning.
-<br>
-Always looking for opportunities to grow and develop my technical skills.
-</p>
+Passionate about technology, problem-solving, and continuous learning.
+I combine practical customer service experience with technical knowledge in programming, aiming to build a successful career in Information Technology and Software Development.
 
-👩‍💻 About Me
+---
 
-I'm Ahood Mubarak Althaalabi, with a background in Customer Service and a strong interest in Programming and Information Technology.
+## 👩‍💻 About Me
 
-I have experience in customer service and a technical foundation in programming. I'm passionate about learning new technologies, improving my coding skills, and building my future in the tech industry.
+I'm Ohoud Mubarak Al-Thaalabi from Jeddah, Saudi Arabia.
 
-🎓 Education
-Bachelor's Degree in History – King Abdulaziz University
-Higher Diploma in Programming – Saudi Higher Institute for Training
-🛠️ Skills & Technologies
-Programming
+I hold a Bachelor's degree in History from King Abdulaziz University and a Higher Diploma in Programming from the Saudi Higher Institute for Training.
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+With several years of experience in customer service, I have developed strong communication, problem-solving, and customer relationship skills. Recently, I expanded my career path into programming and technology, where I am continuously learning and building projects to enhance my technical expertise.
 
-Other Skills
-Customer Service & Communication
-Microsoft Office
-Problem Solving
-Continuous Learning
-🌱 Currently Learning
-Improving my programming skills
-Exploring web development
-Developing my technical knowledge
-📫 Contact Me
+---
 
-I'm always happy to connect and explore new opportunities!
+## 🎓 Education
 
-💼 GitHub: My GitHub Profile
-📧 Email: Your Email Address
-💬 Feel free to connect with me!
+- Higher Diploma in Programming
+  - Saudi Higher Institute for Training
 
-<p align="center">
-<samp>✨ Learning, Growing & Coding Every Day ✨</samp>
-</p>
+- Bachelor's Degree in History
+  - King Abdulaziz University
+
+---
+
+## 💻 Technical Skills
+
+### Front-End Development
+- HTML5
+- CSS3
+- JavaScript
+
+### Currently Learning
+- Flutter
+- Web Development
+- Software Development Principles
+
+### Tools
+- Microsoft Office
+- Excel
+- GitHub
+
+---
+
+## 🤝 Professional Skills
+
+- Customer Service
+- Communication Skills
+- Problem Solving
+- Teamwork
+- Time Management
+- Data Entry
+- Continuous Learning
+
+---
+
+## 🚀 Projects
+
+### Personal Portfolio Website
+Built a personal website using HTML, CSS, and JavaScript to showcase my education, skills, and professional background.
+
+### Future Projects
+- Task Management App using Flutter
+- Charity Application (Ataa)
+- Responsive Business Website
+
+---
+
+## 🌱 Current Goals
+
+- Improve my programming skills.
+- Build real-world development projects.
+- Contribute to open-source projects.
+- Start my career in the technology field.
+
+---
+
+## 📫 Contact Me
+
+📧 Email: ohoud25690@gmail.com
+
+📍 Jeddah, Saudi Arabia
+
+💼 GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+✨ "Every expert was once a beginner. Learning never stops."
