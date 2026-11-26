@@ -1,4 +1,4 @@
-Hi there, I'm Ahood Mubarak Althaalabi! 👋💻
+Hi there, I'm ohuod Mubarak ! 👋💻
 
 <p align="center">
 <samp>
